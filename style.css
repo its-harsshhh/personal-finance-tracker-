@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  #transaction-form {
+    margin-bottom: 20px;
+  }
+  
+  #transaction-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #transaction-list li {
+    margin-bottom: 10px;
+  }
+  
+  #balance {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
